@@ -1,0 +1,5 @@
+name: nayana
+channels:
+  - defaults
+prefix: /home/vyshak/.conda/envs/nayana
+
